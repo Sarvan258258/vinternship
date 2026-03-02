@@ -12,7 +12,7 @@ Some people in the internship did not know HTML, CSS, or JavaScript, but I had s
 
 In the learning process of the MERN stack, I not only found it hard to apply the logic, but I found it hard to apply the consistency. In this experience, I learned that “Don’t think about what you should do, just do something. Doing something is better than doing nothing. Even zero is better than negative.”
 
-The case studies were very good. Even while submitting case studies. Most of my struggles came from React and Express since they were entirely new to me. The syntax itself was doable and even fun, but getting the logic right was the toughest part.
+The case studies were very good, even while submitting them. Most of my struggles came from React and Express since they were entirely new to me. The syntax itself was doable and even fun, but getting the logic right was the toughest part.
 
 Even in the React case studies, which were interactive and fun, the toughest part for me was organizing the components and getting the logic right. Figuring out how the data flows, how the states are updated, and how everything relates to each other was some serious heavy lifting. It wasn't about coding, it was about thinking. And that was a challenge that pushed me to develop my problem-solving skills.
 
